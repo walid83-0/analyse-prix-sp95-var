@@ -24,7 +24,7 @@ L’objectif est de localiser les stations proposant les prix les plus compétit
 - `requêtes_bigquery.sql` : requêtes SQL exécutées sur BigQuery  
 - `looker_studio_visualisation` : aperçu de la visualisation Looker Studio et des captures de la mise en place de la visualisation
 - `README.md` : ce fichier de présentation  
-- `https://lookerstudio.google.com/reporting/051a85cb-f4a9-4e08-bbbd-2fe6d27d166c` : lien vers la carte interactive publique
+- https://lookerstudio.google.com/reporting/051a85cb-f4a9-4e08-bbbd-2fe6d27d166c : lien vers la carte interactive publique
 
 ## Utilité pour l’entreprise
 
